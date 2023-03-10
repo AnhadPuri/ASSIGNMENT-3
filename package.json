@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Pradeep Bhusal Khatri",
+  "author": "Anhad Puri",
   "license": "ISC",
   "dependencies": {
     "cloudinary": "^1.33.0",

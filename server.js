@@ -4,9 +4,9 @@
  *  of this assignment has been copied manually or electronically from any other source
  *  (including 3rd party web sites) or distributed to other students.
  *
- *  Name: _Pradeep Bhusal Khatri ______ Student ID: 169415213_____________ Date: _10-03-2023_______________
+ *  Name: _Anhad Puri______ Student ID: 169478211_____________ Date: _10-03-2023_______________
  *
- *  Online (Cyclic) Link: _https://calm-red-binturong-cuff.cyclic.app/
+ *  Online (Cyclic) Link: _
  *
  ********************************************************************************/
 
@@ -58,9 +58,9 @@ app.engine(
 app.set("view engine", ".hbs");
 
 cloudinary.config({
-  cloud_name: "dbpuwkg0g",
-  api_key: "815199369496445",
-  api_secret: "aAWPUQ9FXt3RNxD30I2C3GO3ZZs",
+  cloud_name: "dkcmk1skc",
+  api_key: "182436762466251",
+  api_secret: "6emCMm1WE4xcGDth6qZE6aVkQvA",
   secure: true,
 });
 
